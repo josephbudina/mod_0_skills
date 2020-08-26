@@ -1,0 +1,19 @@
+1. food = "Pizza"
+
+2. is_delicious = true
+
+3. food = "Tacos"
+
+4. num2 = 6
+
+5. num7 = 2
+
+6. num2 / num7
+
+  quotient = 3
+
+7. songs = ["Space Oddity", "I'm Only sleeping", "Now U Got Me Hooked", "Cityfade"]
+
+8. songs.drop(1)
+
+9.food.length 
